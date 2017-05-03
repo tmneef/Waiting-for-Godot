@@ -1,10 +1,7 @@
 .column {
   float: left;
-  width: 300px;
-}
-
-.column-group {
-  column-gap: 30px;
+  width: 275px;
+  padding-right: 30px;
 }
 
 .img-circle {
@@ -13,8 +10,18 @@
   height: 125px;
 }
 
+.intro {
+  padding-bottom: 30px;
+}
+
+body {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
 h1 {
   font-family: helvetica;
+  text-transform: uppercase;
 }
 
 h2 {
