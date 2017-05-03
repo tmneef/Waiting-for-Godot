@@ -1,7 +1,10 @@
 .column {
   float: left;
   width: 300px;
-  gap: normal;
+}
+
+.column-group {
+  column-gap: 30px;
 }
 
 .img-circle {
