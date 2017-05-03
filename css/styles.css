@@ -1,0 +1,32 @@
+.column {
+  float: left;
+  width: 300px;
+  gap: normal;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 125px;
+  height: 125px;
+}
+
+h1 {
+  font-family: helvetica;
+}
+
+h2 {
+  font-family: helvetica;
+}
+
+h3 {
+  font-family: helvetica;
+}
+
+h4 {
+  font-family: helvetica;
+  font-style: italic;
+}
+
+p {
+  font-family: helvetica;
+}
