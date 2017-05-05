@@ -1,9 +1,3 @@
-.column {
-  float: left;
-  width: 275px;
-  padding-right: 30px;
-}
-
 .img-circle {
   border-radius: 50%;
   width: 125px;
@@ -39,4 +33,12 @@ h4 {
 
 p {
   font-family: helvetica;
+}
+
+@media screen and (min-width: 750px) {
+  .column {
+    float: left;
+    width: 275px;
+    padding-right: 30px;
+  }
 }
